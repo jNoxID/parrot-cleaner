@@ -23,7 +23,7 @@ Ce script Bash automatise le nettoyage d'un système **Parrot OS**, particulièr
 1. Cloner le dépôt ou copier le script sur votre machine :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/parrot-cleanup.git
+   git clone https://github.com/jNoxID/parrot-cleanup.git
    cd parrot-cleanup
    chmod +x cleanup.sh
    ./cleanup.sh
